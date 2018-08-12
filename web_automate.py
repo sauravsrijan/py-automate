@@ -1,5 +1,5 @@
 """
-A simple script to automate amazon login.
+A simple script to automate amazon login, and place an order for my favourite pens.
 """
 from webbot import Browser
 import getpass
